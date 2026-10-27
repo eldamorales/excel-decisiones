@@ -16,7 +16,7 @@ Microsoft 365, Excel 2021 o 2024 para BUSCARX/FILTRAR. En 2016/2019 usa BUSCARV 
 Los datasets son sintéticos y sus importes están en MXN. Umbral de margen didáctico: 15%. Hay dos #N/D intencionales en Busquedas!B13:C13. R3 conserva seis claves sin catálogo y R5 contiene seis ventas cero válidas.
 
 ## Publicación
-Sube dia2.html a la raíz del mismo repositorio del Día 1. La dirección será /excel-decisiones-dia1/dia2.html. El index.html del Día 1 se conserva. El HTML incorpora sus descargas, por lo que no requiere subir archivos Office por separado.
+Sube dia2.html a la raíz del mismo repositorio del Día 1. La dirección será /excel-decisiones/dia2.html. El index.html del Día 1 se conserva. El HTML incorpora sus descargas, por lo que no requiere subir archivos Office por separado.
 
 ## Validación docente
 Revisa originales, claves, fórmulas, filtro con distintos criterios, controles numéricos y reglas de formato. El tutorial ofrece comprobación formativa y una rúbrica; no califica automáticamente los archivos entregados.
