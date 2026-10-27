@@ -9,6 +9,8 @@ Materiales de la Dra. Elda C. Morales.
 
 - [Día 4. Bases de datos, tablas dinámicas y macros](https://eldamorales.github.io/excel-decisiones/dia4.html)
 
+- [Día 5. Macros y VBA](https://eldamorales.github.io/excel-decisiones/dia5.html)
+
 Cada tutorial conserva sus descargas integradas de Excel, PowerPoint y datasets, con procedimientos, ejercicios y soluciones. Los escenarios de práctica son ficticios.
 
 ## Uso
