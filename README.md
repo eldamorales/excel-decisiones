@@ -7,6 +7,8 @@ Materiales de la Dra. Elda C. Morales.
 - [Día 2. Texto, búsquedas, filtros y lógica](https://eldamorales.github.io/excel-decisiones/dia2.html)
 - [Día 3. Gráficas, formato e imágenes](https://eldamorales.github.io/excel-decisiones/dia3.html)
 
+- [Día 4. Bases de datos, tablas dinámicas y macros](https://eldamorales.github.io/excel-decisiones/dia4.html)
+
 Cada tutorial conserva sus descargas integradas de Excel, PowerPoint y datasets, con procedimientos, ejercicios y soluciones. Los escenarios de práctica son ficticios.
 
 ## Uso
